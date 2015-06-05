@@ -1,0 +1,12 @@
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\bin\Debug\ClusteringSearchEngine.exe
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\bin\Debug\MySql.Data.dll
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\obj\x86\Debug\ClusteringSearchEngine.Form1.resources
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\obj\x86\Debug\ClusteringSearchEngine.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\obj\x86\Debug\ClusteringSearchEngine.MyLabelTitle.resources
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\bin\Debug\MyCluster.exe
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\bin\Debug\MyCluster.pdb
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\obj\x86\Debug\MyCluster.exe
+d:\documents\visual studio 2010\Projects\ClusteringSearchEngine\ClusteringSearchEngine\obj\x86\Debug\MyCluster.pdb
